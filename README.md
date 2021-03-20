@@ -1,4 +1,6 @@
 # OceanSimulation-FFT-GerstnerWaves
+The Video Link: https://youtu.be/OCRi6ySagv8
+
 ![image](https://user-images.githubusercontent.com/72455598/111855680-2f44e300-891e-11eb-9dfc-9ee246504c27.png)
 ![image](https://user-images.githubusercontent.com/72455598/111855682-37048780-891e-11eb-850c-9fa5a01b2c27.png)
 ![image](https://user-images.githubusercontent.com/72455598/111855687-3e2b9580-891e-11eb-87ac-4460ae2ad3a1.png)
